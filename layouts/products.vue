@@ -2,10 +2,10 @@
     <div>
         <header class="shadow-sm bg-white">
             <nav class="container mx-auto p-4">
-                <nuxt-link to="/" class="font-bold">Nuxt Dojo</nuxt-link>                
+                <nuxt-link to="/" class="font-bold">Nuxt Dojo</nuxt-link>
             </nav>
         </header>
-       
+
         <div class="container mx-auto p-4">
             <slot />
         </div>
